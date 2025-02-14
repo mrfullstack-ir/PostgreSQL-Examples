@@ -1,3 +1,6 @@
+-- source:
+-- https://www.linkedin.com/pulse/comprehensive-guide-creating-database-postgresql-saeed-roohbakhsh-lzvaf/
+
 -- Create a simple database with the default settings
 CREATE DATABASE my_db;
 
